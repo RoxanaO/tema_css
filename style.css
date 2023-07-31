@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:red;
+}
+
+body {
+	background-color:#adaeee;
+}
+.p_size_2 {
+	color: #1C2541;
+	font-size:20px;
+}
+
+.p_size_3 {
+	font-family: "Sofia", sans-serif;
+	color: #006d77;
+	font-size:16px;
+	line-height: 20px;;
+}
+
+.container {
+	
+	margin: auto;
+  	width: 100%;
+	align-content: center;
+	
+	
+}
+
+
+.container_unu {
+	 position: inherit;
+	 background-color: #efefef;
+	 padding: 10px;
+	 margin: 5px;
+	 border: 2px solid #ff0000;
+	 border-radius: 15px;
+	 width: 48%;
+	 float: left;
+}
+
+.container_doi {
+	 position: relative;
+	 background-color: #FED69A;
+	 padding: 10px;
+	 margin: 5px;
+	 border: 4px double #000000;
+	 border-radius: 15px;
+	 width: 48%;
+	 float: left;
+}
+
+.container_trei {
+	 position: inherit;
+	 background-color: #fffdfb;
+	 padding: 10px;
+	 margin: 5px;
+	 border: 2px solid #25c5b1;
+	 border-radius: 15px;
+	 width: 48%;
+	 float: left;
+}
+
+.container_patru {
+	 position: relative;
+	 background-color: #fffdfb;
+	 padding: 10px;
+	 margin: 5px;
+	 border: 6px solid #25c5b1;
+	 border-radius: 15px;
+	 width: 48%;
+	 float: left;
+}
+
+		
